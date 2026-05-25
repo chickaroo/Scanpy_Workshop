@@ -216,3 +216,19 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+data/table_s1.csv
+data/.DS_Store
+.vscode/settings.json
+.gitignore
+.gitignore
+data/table_s1.xlsx
+.gitignore
+data/barcodes.tsv.gz
+data/features.tsv.gz
+data/adata_preprocessed.h5ad
+cache/data-matrix.h5ad
+scripts/cache/..-data-matrix.h5ad
+data/matrix.mtx.gz
+Practical_part_1.ipynb
+.DS_Store
+data/adata_raw.h5ad
