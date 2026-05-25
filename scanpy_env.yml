@@ -1,0 +1,10 @@
+name: scanpy_basic
+channels:
+- conda-forge
+dependencies:
+- jupyter
+- numpy
+- pandas
+- python=3.12
+- scanpy
+
