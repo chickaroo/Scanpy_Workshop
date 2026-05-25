@@ -1,0 +1,1 @@
+When downloading the adata file, save in here in the data directory for all the file paths to work properly! 
