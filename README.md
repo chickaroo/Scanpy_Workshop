@@ -1,14 +1,27 @@
 # Scanpy Workshop
+
 CompBioSoc 2026 ScanPy scnRNA-Seq Data Analysis Workshop Contents
 
-Part 1 (Thursday 28 May 6-8pm) Notebook: `Part1_Notebook.ipynb` or find the Google Colab Notebook here: TODO!!!
-Data for download here: https://drive.google.com/file/d/1HcbamRHxf7s7Qmcbpc-bfBfKnIorsE4j/view?usp=drive_link 
+Part 1: Thursday 28 May 6-8pm, Huxley 311
 
-Part 2 (Thursday 4 May 6-8pm) Notebook: TBD
 
-Note: For more in-depth learning about dimensionality reduction which we covered in Part 1, have a look at Synthetic Biology Society's workshop on Tuesday 2 June from 6pm. 
+Find the notebook for the session: `Part1_ScanpyNotebook.ipynb` 
+or find the Google Colab Notebook here: https://drive.google.com/file/d/1tZWtYulyMjI-IY5meCEqXEk3mw15qGaq/view?usp=sharing 
 
-## Environment set up: 
+## Part 1 — Introduction to Scanpy
+- [`Part1_ScanpyNotebook.ipynb`](Part1_ScanpyNotebook.ipynb)  [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chickaroo/Scanpy_Workshop/blob/main/Part1_ScanpyNotebook.ipynb)
+
+## Part 2 - Clustering, Cell Types, and Downstream Analysis
+- Thursday 4 May 6-8pm, Huxley 311
+- Notebook: TBD
+
+## Data access: 
+Download the `anndata` file from [here](https://drive.google.com/file/d/1HcbamRHxf7s7Qmcbpc-bfBfKnIorsE4j/view?usp=drive_link) and save it in the folder `data/` if running locally, or simply run the code cell to download the data automatically in the Colab notebook. 
+
+
+**Note:** For more in-depth learning about dimensionality reduction which we covered in Part 1, have a look at Synthetic Biology Society's workshop on Tuesday 2 June from 6pm. 
+
+## Environment set up to run locally: 
 
 Use the `.yml` file for installation of the minimal requirement
 ```bash
@@ -19,5 +32,5 @@ conda activate scanpy_basic
 Or simply run
 
 ```bash
-conda create -n scanpy_basic -c conda-forge python=3.12 numpy pandas scanpy jupyter
+conda create -n scanpy_basic -c conda-forge python=3.12 numpy pandas scanpy jupyter scikit-image
 ```
