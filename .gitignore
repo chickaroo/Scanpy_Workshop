@@ -219,8 +219,6 @@ __marimo__/
 data/table_s1.csv
 data/.DS_Store
 .vscode/settings.json
-.gitignore
-.gitignore
 data/table_s1.xlsx
 .gitignore
 data/barcodes.tsv.gz
