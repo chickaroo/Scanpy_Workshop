@@ -11,6 +11,7 @@ Part 1: Thursday 28 May 6-8pm, Huxley 311
 
 ## Part 2 - Clustering, Cell Types, and Downstream Analysis
 - Thursday 4 May 6-8pm, Huxley 311
+- **Stand alone!** No need to have come to Part 1 or worked through the complete Part 1 notebook (this is recommended). 
 - Notebook: TBD
 
 ## Data access: 
