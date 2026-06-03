@@ -3,6 +3,7 @@
 CompBioSoc 2026 ScanPy scnRNA-Seq Data Analysis Workshop Contents
 
 Part 1: Thursday 28 May 6-8pm, Huxley 311
+
 Part 2: Thursday 4 May 6-8pm, Huxley 311
 
 ## Part 1 — Introduction to Scanpy
@@ -10,7 +11,7 @@ Part 2: Thursday 4 May 6-8pm, Huxley 311
 - **Note:** For more in-depth learning about dimensionality reduction which we covered in Part 1, have a look at Synthetic Biology Society's workshop on Tuesday 2 June from 6pm. 
 
 
-## Part 2 - Clustering, Cell Types, and Downstream Analysis
+## Part 2 — Clustering, Cell Types, and Downstream Analysis
 - **Stand alone!** No need to have come to Part 1 or worked through the complete Part 1 notebook (this is recommended). 
 - [`Part2_ScanpyNotebook.ipynb`](Part2_ScanpyNotebook.ipynb)  [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chickaroo/Scanpy_Workshop/blob/main/Part2_ScanpyNotebook.ipynb)
 
