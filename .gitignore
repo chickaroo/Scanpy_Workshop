@@ -230,3 +230,5 @@ data/matrix.mtx.gz
 Practical_part_1.ipynb
 .DS_Store
 data/adata_raw.h5ad
+data/table_s4_results.xlsx
+data/table_s5_markergenes.xlsx
