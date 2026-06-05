@@ -20,6 +20,8 @@ Download the `anndata` file from [here](https://drive.google.com/file/d/1HcbamRH
 
 Download the preprocessed `anndata` file from [here](https://drive.google.com/file/d/1p3hMKbg7S04Ufzpmc8v2WKDY5z3SduxR/view?usp=sharing) and save it in the same `data/` folder. 
 
+Data source: [Lee *et al.*, 2020](https://doi.org/10.1126/sciimmunol.abd1554)
+
 
 ## Environment set up to run locally: 
 
