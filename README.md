@@ -36,3 +36,9 @@ conda create -n scanpy_basic -c conda-forge python=3.12 numpy pandas scanpy jupy
 ```
 
 Note for Part 2 you'll need some aditional packages: `celltypist`, `pydeseq2`, `igraph`, `leidenalg`
+
+## Further Reading, things discussed
+
+- Don't use UMAPs for nonsense conclusions, read more: [Chari *et al.*, 2023](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011288). 
+- Scanpy is one tool for handling scRNA-Seq data, you can also use Seurat in R. Indeed these choices matter, read more: [Rich *et al.*, 2026](https://doi.org/10.1016/j.cels.2026.101560). 
+- Direction of the field: large, high-dimensional (think hundreds of thousands, even millions of cells) cell atlases, read more: [Hemberg *et al.*, 2025](https://link.springer.com/article/10.1186/s13059-025-03771-8). 
